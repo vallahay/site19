@@ -1,2 +1,1 @@
-# site19
-siteforschool19
+pip install django
